@@ -1,0 +1,5 @@
+AccessAzureResources/obj/*
+AccessAzureResources/bin/*
+AccessAzureResources/properties/*
+AccessAzureResources/.config/*
+.vs/*
